@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BSMmUNj3HUHj3CZZDqC3fZtxyrCGIAZ4qg85XMUCYA5QVyIbH8pPKW3swIOgdMuc4MSAeLEOKiYCU/SeIzD5Q==",
+  "success": true,
+  "projectFilePath": "F:\\Main SE Mini project\\miniproject-csharp_team\\MiniProject_new.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sairu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

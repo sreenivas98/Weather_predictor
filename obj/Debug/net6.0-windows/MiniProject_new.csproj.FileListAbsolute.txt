@@ -1,0 +1,39 @@
+F:\MASTERS\SE\MiniProject_new\bin\Debug\net6.0-windows\MiniProject_new.exe
+F:\MASTERS\SE\MiniProject_new\bin\Debug\net6.0-windows\MiniProject_new.deps.json
+F:\MASTERS\SE\MiniProject_new\bin\Debug\net6.0-windows\MiniProject_new.runtimeconfig.json
+F:\MASTERS\SE\MiniProject_new\bin\Debug\net6.0-windows\MiniProject_new.dll
+F:\MASTERS\SE\MiniProject_new\bin\Debug\net6.0-windows\MiniProject_new.pdb
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.csproj.AssemblyReference.cache
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.csproj.GenerateResource.cache
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.GeneratedMSBuildEditorConfig.editorconfig
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.AssemblyInfoInputs.cache
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.AssemblyInfo.cs
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.csproj.CoreCompileInputs.cache
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.dll
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\refint\MiniProject_new.dll
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.pdb
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.genruntimeconfig.cache
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\ref\MiniProject_new.dll
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.IndexForm.resources
+F:\MASTERS\SE\MiniProject_new\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\MASTERS\SE\MiniProject_new\obj\Debug\net6.0-windows\MiniProject_new.csproj.CopyComplete
+F:\Main SE Mini project\miniproject-csharp_team\bin\Debug\net6.0-windows\MiniProject_new.exe
+F:\Main SE Mini project\miniproject-csharp_team\bin\Debug\net6.0-windows\MiniProject_new.deps.json
+F:\Main SE Mini project\miniproject-csharp_team\bin\Debug\net6.0-windows\MiniProject_new.runtimeconfig.json
+F:\Main SE Mini project\miniproject-csharp_team\bin\Debug\net6.0-windows\MiniProject_new.dll
+F:\Main SE Mini project\miniproject-csharp_team\bin\Debug\net6.0-windows\MiniProject_new.pdb
+F:\Main SE Mini project\miniproject-csharp_team\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.csproj.AssemblyReference.cache
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.IndexForm.resources
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.csproj.GenerateResource.cache
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.GeneratedMSBuildEditorConfig.editorconfig
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.AssemblyInfoInputs.cache
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.AssemblyInfo.cs
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.csproj.CoreCompileInputs.cache
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.csproj.CopyComplete
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.dll
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\refint\MiniProject_new.dll
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.pdb
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.genruntimeconfig.cache
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\ref\MiniProject_new.dll
+F:\Main SE Mini project\miniproject-csharp_team\obj\Debug\net6.0-windows\MiniProject_new.ResponseForm.resources
